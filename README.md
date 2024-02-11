@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Deivid-Martins
-- 👀 I’m interested in becoming a professional programmer
-- 🌱 I’m currently learning Python, C++, HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate in a professional team!
-- 📫 You can contact me through my linkedin: https://www.linkedin.com/in/deivid-martins/
+Hi, I'm a computer science student who has been involved in programming for a long time.
 
-<!---
-Deivid-Martins/Deivid-Martins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technical Skills:
+Programming Languages: 
+  -Intermediate: HTML, CSS, C++ and Python.
+  -Basic: JavaScript.
+
+Web Development: Familiarity with creating responsive and stylized web pages
+
+Collaboration: Experience in teamwork during academic projects.
+
+I'm looking forward to joining a dynamic team where I can apply my knowledge and gain practical experience. I'm open to internship opportunities or junior programmer positions, where I can actively contribute to the team's success while continuing to learn and evolve professionally.
+I am excited at the prospect of working in a challenging environment, contributing my passion for programming and my commitment to learning. I am confident that my skills and willingness to grow make me a valuable candidate for the team. I'm ready to take on new challenges and contribute positively to the company's success.
