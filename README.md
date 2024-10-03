@@ -2,8 +2,7 @@ Hi, I'm a computer science student who has been involved in programming for a lo
 
 Technical Skills:
 Programming Languages: 
-  -Intermediate: HTML, CSS, C++ and Python.
-  -Basic: JavaScript.
+  -Intermediate: Java, JavaScript and Python.
 
 Web Development: Familiarity with creating responsive and stylized web pages
 
