@@ -3,6 +3,7 @@ Hi, I'm a computer science student who has been involved in programming for a lo
 Technical Skills:
 Programming Languages: 
   -Intermediate: Java, JavaScript and Python.
+  -Basic: PostgreSQL, MySQL
 
 Web Development: Familiarity with creating responsive and stylized web pages
 
